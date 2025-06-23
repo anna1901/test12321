@@ -12,7 +12,7 @@ public class Test123Module: Module {
 
     // Defines a JavaScript synchronous function that runs the native code on the JavaScript thread.
     Function("hello") {
-      return "Hello world! 👋"
+      return "Hello world from the module! 👋"
     }
   }
 }

@@ -16,7 +16,7 @@ class Test123Module : Module() {
 
     // Defines a JavaScript synchronous function that runs the native code on the JavaScript thread.
     Function("hello") {
-      "Hello world! 👋"
+      "Hello world from the module! 👋"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "test123",
+  "name": "test12321test",
   "version": "0.1.0",
   "description": "My new module",
   "main": "build/index.js",
@@ -18,16 +18,16 @@
   "keywords": [
     "react-native",
     "expo",
-    "test123",
-    "Test123"
+    "test12321",
+    "Test12321"
   ],
-  "repository": "https://github.com/anna1901/test123",
+  "repository": "https://github.com/anna1901/test12321",
   "bugs": {
-    "url": "https://github.com/anna1901/test123/issues"
+    "url": "https://github.com/anna1901/test12321/issues"
   },
   "author": "Anna Olak <15946812+anna1901@users.noreply.github.com> (https://github.com/anna1901)",
   "license": "MIT",
-  "homepage": "https://github.com/anna1901/test123#readme",
+  "homepage": "https://github.com/anna1901/test12321#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "~19.0.0",
